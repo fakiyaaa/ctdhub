@@ -55,4 +55,6 @@ Main Screen
 => Chooses database type
 => Goes to the chosen database with internships
 => Saves liked ones
+
+
 ![]([(https://drive.google.com/drive/folders/1np_jkJPF1B7T8oSAMjNjuVuu2lLjyUYO?usp=sharing)])
