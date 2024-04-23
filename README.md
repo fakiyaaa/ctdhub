@@ -58,3 +58,27 @@ Main Screen
 
 
 ![]([(https://drive.google.com/drive/folders/1np_jkJPF1B7T8oSAMjNjuVuu2lLjyUYO?usp=sharing)])
+
+Weekly Goals:
+[x] Find photos and list of internships
+[x] Put them inside the application 
+[ ] Add additional information about each internship
+[ ] Applying Button to internships
+
+
+Main Features:
+
+[x] Home Screen displaying different internships from the Minerva University Database
+[x] Scrolling internship database 
+[ ] Clicking on internship and reading additional information about them
+[ ] Apply to internship that the user liked
+
+
+
+Reflection:
+
+I am still figuring out how to implement each additional information for selected internships, so that they will match. As I don't have the API, it is a bit hard to implement data. 
+
+
+Video:
+link: https://youtube.com/shorts/b6FfAI-cl2w?feature=share 
